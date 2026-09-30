@@ -15,7 +15,7 @@ More speficly `LUX_Custom` and `LUX_ScreenSpace_General`.
 ## Build Instructions
 
 Follow these steps to create and compile your custom shaders: <br>
-1. Write your DX9 shader and save it in the `src/shaders/fxc` directory. <br>
+1. Write your DX11 shader and save it in the `src/shaders/fxc` directory. <br>
 
 2. Add the name of your custom shader file to the `compile_all_shaders.txt` file. <br>
 
