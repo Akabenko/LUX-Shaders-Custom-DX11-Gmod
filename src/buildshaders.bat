@@ -43,7 +43,7 @@ for /f "usebackq delims=" %%F in ("%inputbase%.txt") do (
     ::Skip empty lines and lines starting with //
     if not "!FileName!"=="" if "!FileName:~0,2!" NEQ "//" (
         "%SrcDirBase%\devtools\ShaderCompile2" ^
-            -ver 30 ^
+            -ver 50 ^
             -threads %NUMBER_OF_PROCESSORS% ^
             -shaderpath "%shaderDir%" ^
             "!FileName!"
