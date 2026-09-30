@@ -32,7 +32,7 @@ if exist "%GAMEDIR%" (
 )
 
 ::Run shader processing
-set "Command=-ver 30 -threads %NUMBER_OF_PROCESSORS% -shaderpath %shaderDir%"
+set "Command=-ver 50 -threads %NUMBER_OF_PROCESSORS% -shaderpath %shaderDir%"
 echo [Building .fxc files and worklist for %inputbase%.txt]
 echo Command: %Command%
 echo.
