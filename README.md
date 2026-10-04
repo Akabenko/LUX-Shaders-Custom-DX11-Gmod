@@ -1,3 +1,8 @@
+### Install guide:
+1. Unpack .rar arсhive to `steamapps\common\GarrysMod` with replacing.
+2. Write `-shaderapi shaderapidx11` to Properties of Gmod in Steam.
+You can disable DirectX 11. Just remove `-shaderapi shaderapidx11` from Properties of Gmod.
+***
 <img src="https://github.com/user-attachments/assets/baa74c07-c669-4d25-82f0-01201567808e"
      alt="800"
      width="400">
