@@ -31,6 +31,7 @@ Follow these steps to create and compile your custom shaders: <br>
 ---
 
 ## Contact
+For questions about dx11 ask on the gshaders discord:
 * Join the **[GShaders Discord Server](https://discord.gg/gshaders)**<br>
 
 ## Legal
