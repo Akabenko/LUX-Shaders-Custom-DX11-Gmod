@@ -31,8 +31,8 @@ Follow these steps to create and compile your custom shaders: <br>
 ---
 
 ## Contact
-* Join the **[LUX Discord Server](https://discord.gg/cGv8GGSkpc)**<br>
 * Join the **[GShaders Discord Server](https://discord.gg/gshaders)**<br>
+* Join the **[LUX Discord Server](https://discord.gg/cGv8GGSkpc)**<br>
 
 ## Legal
 ---
