@@ -32,7 +32,6 @@ Follow these steps to create and compile your custom shaders: <br>
 
 ## Contact
 * Join the **[GShaders Discord Server](https://discord.gg/gshaders)**<br>
-* Join the **[LUX Discord Server](https://discord.gg/cGv8GGSkpc)**<br>
 
 ## Legal
 ---
@@ -62,6 +61,7 @@ If your contribution to the Project is not listed below, don't hesitate to get i
 #### Major Contributors
  - **[ShiroDkxtro2](https://github.com/WhiteRedDragons)**: Creator of **LUX**.  
  - **[Unusuario2](https://github.com/Unusuario2)** : Inital Creator of the [LUX-Shader-Custom](https://github.com/LUX-Shaders-Team/LUX-Shaders-Custom) reposiroty.   
+* Join the **[LUX Discord Server](https://discord.gg/cGv8GGSkpc)**<br>
 
 ---
 ### Third Party Code  
