@@ -3,6 +3,7 @@
 2. Unpack .zip arсhive to `steamapps\common\GarrysMod` with replacing.
 3. Write `-shaderapi shaderapidx11` to Properties of Gmod in Steam.
 You can disable DirectX 11. Just remove `-shaderapi shaderapidx11` from Properties of Gmod.
+4. Launch `x64` bit Gmod version.
 ***
 <img src="https://github.com/user-attachments/assets/baa74c07-c669-4d25-82f0-01201567808e"
      alt="800"
